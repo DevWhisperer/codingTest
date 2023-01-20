@@ -7,3 +7,7 @@
 ### 2일차 ( 01. 20)
   - 양꼬치   https://school.programmers.co.kr/learn/courses/30/lessons/120830
   - 배열의 평균값   https://school.programmers.co.kr/learn/courses/30/lessons/120817
+
+### 3일차 ( 01. 25)
+   - 피자 나눠먹기 (1)  https://school.programmers.co.kr/learn/courses/30/lessons/120814
+   - 피자 나눠먹기 (2)  https://school.programmers.co.kr/learn/courses/30/lessons/120815
