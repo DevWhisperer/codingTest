@@ -11,3 +11,7 @@
 ### 3일차 ( 01. 21)
    - 피자 나눠먹기 (1)  https://school.programmers.co.kr/learn/courses/30/lessons/120814
    - 피자 나눠먹기 (2)  https://school.programmers.co.kr/learn/courses/30/lessons/120815
+
+### 4일차 ( 01. 25)
+   - 문자열안에 문자열  https://school.programmers.co.kr/learn/courses/30/lessons/120908
+   - 자릿수 더하기  https://school.programmers.co.kr/learn/courses/30/lessons/120906
