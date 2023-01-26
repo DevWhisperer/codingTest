@@ -15,3 +15,9 @@
 ### 4일차 ( 01. 25)
    - 문자열안에 문자열  https://school.programmers.co.kr/learn/courses/30/lessons/120908
    - 자릿수 더하기  https://school.programmers.co.kr/learn/courses/30/lessons/120906
+   
+### 5일차 ( 01. 26)
+   - 머쓱이보다 키 큰 사람  https://school.programmers.co.kr/learn/courses/30/lessons/120585
+   - 중복된 숫자 개수  https://school.programmers.co.kr/learn/courses/30/lessons/120583
+   - 아이스 아메리카노  https://school.programmers.co.kr/learn/courses/30/lessons/120819
+   
